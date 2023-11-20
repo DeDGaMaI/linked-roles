@@ -1,0 +1,7 @@
+node_modules
+.env
+.idea
+logs
+.idea
+config/config.json
+./config.js

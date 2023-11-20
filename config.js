@@ -1,0 +1,5 @@
+module.exports = {
+	DISCORD_CLIENT_ID: "",
+	DISCORD_REDIRECT_URI: "",
+	DISCORD_CLIENT_SECRET: ""
+}
